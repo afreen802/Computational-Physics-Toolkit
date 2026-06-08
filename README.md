@@ -15,3 +15,5 @@ Topics:
 - Error Analysis
 - Numerical Simulation
 - Scientific Visualization
+
+Status: Complete
