@@ -2,14 +2,16 @@
 
 A collection of numerical methods and simulations used in computational physics.
 
-## Modules
-- Monte Carlo Estimation of π
-- Random Walk Simulation
-- RK4 Solver
+## Projects
 
-## Requirements
-numpy
-matplotlib
+### 1. Monte Carlo Estimation of π
 
-## Results
-Estimated π = 3.1418
+Location:
+
+MonteCarlo-Pi/
+
+Topics:
+- Monte Carlo Methods
+- Error Analysis
+- Numerical Simulation
+- Scientific Visualization
