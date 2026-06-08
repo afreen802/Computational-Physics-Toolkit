@@ -32,11 +32,11 @@ Therefore,
 
 ### Circle Simulation
 
-![Circle Simulation](figures/circle_simulation.png)
+![Circle Simulation](figures/Circle Simulation.png)
 
 ### Convergence Plot
 
-![Convergence](figures/convergence_plot.png)
+![Convergence Plot](figures/Convergence Plot.png)
 
 ## Technologies
 
