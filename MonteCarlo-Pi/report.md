@@ -128,9 +128,8 @@ For a simulation with 100,000 random points:
 
 The generated points form a visual approximation of the circle inside the square.
 
-Insert image:
 
-![Circle Simulation](figures/circle_simulation.png)
+![Circle Simulation](figures/Circle%20Simulation.png)
 
 ---
 
@@ -138,9 +137,7 @@ Insert image:
 
 As the number of samples increases, the estimate approaches the true value of π.
 
-Insert image:
-
-![Convergence Plot](figures/convergence_plot.png)
+![Convergence Plot](figures/Convergence%20Plot.png)
 
 ---
 
