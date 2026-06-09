@@ -46,3 +46,7 @@ plt.axis("equal")
 plt.savefig("random_walk.png", dpi=300)
 
 plt.show()
+
+distance = np.sqrt(x[-1]**2 + y[-1]**2)
+
+print("Final distance from origin =", distance)
