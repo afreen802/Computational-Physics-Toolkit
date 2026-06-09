@@ -1,19 +1,66 @@
-# Computational-Physics-Toolkit
+# Computational Physics Toolkit
 
-A collection of numerical methods and simulations used in computational physics.
+A collection of computational physics projects implemented in Python to explore numerical methods, stochastic processes, and scientific computing.
 
-## Projects
+---
 
-### 1. Monte Carlo Estimation of π
+## Completed Modules
 
-Location:
+### 1. Monte Carlo Estimation of π ✅
 
-MonteCarlo-Pi/
-
-Topics:
+**Topics Covered**
 - Monte Carlo Methods
+- Random Number Generation
 - Error Analysis
 - Numerical Simulation
-- Scientific Visualization
 
-Status: Complete
+**Key Result**
+
+Estimated the value of π using random sampling and studied convergence with increasing sample size.
+
+📂 Project Folder: `MonteCarlo-Pi`
+
+---
+
+### 2. Random Walk & Diffusion ✅
+
+**Topics Covered**
+- Random Walks
+- Brownian Motion
+- Diffusion
+- Mean Squared Displacement (MSD)
+
+**Key Result**
+
+Verified the diffusion law:
+
+MSD ∝ t
+
+📂 Project Folder: `Random-Walk-Diffusion`
+
+---
+
+## Upcoming Modules
+
+- RK4 Differential Equation Solver
+- Projectile Motion with Air Resistance
+- Heat Equation Solver
+- Ising Model Simulation
+- N-Body Gravitational Simulation
+- Exoplanet Detection from Real Astronomical Data
+
+---
+
+## Technologies Used
+
+- Python
+- NumPy
+- Matplotlib
+
+---
+
+## Author
+
+Afreen Chaudhary
+
+Physics Undergraduate | Computational Physics 
