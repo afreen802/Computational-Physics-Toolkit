@@ -40,9 +40,24 @@ MSD ∝ t
 
 ---
 
+### 3. RK4 Differential Equation Solver ✅
+
+**Topics Covered**
+- Numerical Methods
+- Ordinary Differential Equations
+- Runge-Kutta Methods
+- Error Analysis
+  
+**Key Result**
+
+Reproduced the analytical solution of radioactive decay with high accuracy.
+
+📂 Project Folder: `RK4-Solver`
+
+---
+
 ## Upcoming Modules
 
-- RK4 Differential Equation Solver
 - Projectile Motion with Air Resistance
 - Heat Equation Solver
 - Ising Model Simulation
