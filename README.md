@@ -55,11 +55,17 @@ Reproduced the analytical solution of radioactive decay with high accuracy.
 📂 Project Folder: `RK4-Solver`
 
 ---
+### 4. Heat Equation Solver ✅
+
+Topics:
+- Partial Differential Equations
+- Finite Difference Method
+- Heat Transfer
+- Numerical Simulation
 
 ## Upcoming Modules
 
 - Projectile Motion with Air Resistance
-- Heat Equation Solver
 - Ising Model Simulation
 - N-Body Gravitational Simulation
 - Exoplanet Detection from Real Astronomical Data
