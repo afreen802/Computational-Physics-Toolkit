@@ -63,6 +63,10 @@ Topics:
 - Heat Transfer
 - Numerical Simulation
 
+📂 Project Folder: `Heat-Equation-Solver`
+
+---
+
 ## Upcoming Modules
 
 - Projectile Motion with Air Resistance
