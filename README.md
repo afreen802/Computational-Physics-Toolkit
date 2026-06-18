@@ -79,10 +79,21 @@ Topics:
 
 ---
 
+### 6. N-Body Gravitational Simulation ✅
+
+Topics:
+- Computational Astrophysics
+- Newtonian Gravity
+- Orbital Mechanics
+- Numerical Integration
+
+📂 Project Folder: `N-Body-Simulation`
+
+---
+
 ## Upcoming Modules
 
 - Projectile Motion with Air Resistance
-- N-Body Gravitational Simulation
 - Exoplanet Detection from Real Astronomical Data
 
 ---
