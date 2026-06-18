@@ -67,10 +67,21 @@ Topics:
 
 ---
 
+### 5. Ising Model Simulation ✅
+
+Topics:
+- Statistical Mechanics
+- Monte Carlo Methods
+- Phase Transitions
+- Magnetization
+
+📂 Project Folder: `Ising-Model`
+
+---
+
 ## Upcoming Modules
 
 - Projectile Motion with Air Resistance
-- Ising Model Simulation
 - N-Body Gravitational Simulation
 - Exoplanet Detection from Real Astronomical Data
 
