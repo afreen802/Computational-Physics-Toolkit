@@ -99,6 +99,8 @@ Topics:
 - Computational Astrophysics
 - Scientific Data Analysis
 - Time-Series Analysis
+- 
+📂 Project Folder: `Gravitational-Wave-Analysis`
 
 ---
 
