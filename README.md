@@ -91,6 +91,17 @@ Topics:
 
 ---
 
+### 7. Gravitational Wave Analysis ✅
+
+Topics:
+- Signal Processing
+- Fourier Analysis
+- Computational Astrophysics
+- Scientific Data Analysis
+- Time-Series Analysis
+
+---
+
 ## Upcoming Modules
 
 - Projectile Motion with Air Resistance
